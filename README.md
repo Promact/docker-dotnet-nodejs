@@ -1,2 +1,2 @@
 # docker-dotnet-nodejs
-Docker repository for dotnet core + NodeJS environment
+Docker repository for latest dotnet core + NodeJS environment
