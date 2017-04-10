@@ -1,4 +1,4 @@
-FROM microsoft/dotnet:1.1.0-sdk-projectjson
+FROM microsoft/dotnet:latest
 MAINTAINER Promact Infotech<info@promactinfo.com>
 # Install required packages
 RUN apt-get update -q \
